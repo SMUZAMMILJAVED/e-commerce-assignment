@@ -8,7 +8,7 @@ import Nopage from "./pages/nopage/Nopage";
 import MyState from "./context/data/myState";
 import Login from "./pages/registration/Login";
 import Signup from "./pages/registration/Signup";
-import ProductInfo from "./pages/productInfo/ProductInfo";
+import ProductInfo from "./pages/productInfo/productInfo";
 import AddProduct from "./pages/admin/page/AddProduct";
 import UpdateProduct from "./pages/admin/page/UpdateProduct";
 import { ToastContainer } from "react-toastify";
